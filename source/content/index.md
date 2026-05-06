@@ -1,5 +1,5 @@
 ---
-title: Stone Ocean Documentations
+title: Stone Ocean Docs
 ---
 
 Hello world!
